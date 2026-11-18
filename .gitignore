@@ -1,0 +1,15 @@
+node_modules
+dist
+/.nyc_output
+.DS_Store
+
+# ide
+.idea/
+
+# Local Netlify folder
+.netlify
+
+.env
+.env.*
+*.pem
+*.key

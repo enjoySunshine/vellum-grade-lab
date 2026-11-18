@@ -1,0 +1,24 @@
+{
+  "name": "@ffmpeg/types",
+  "version": "0.12.4",
+  "description": "ffmpeg.wasm types",
+  "types": "types",
+  "files": [
+    "types"
+  ],
+  "keywords": [
+    "ffmpeg",
+    "WebAssembly",
+    "video",
+    "audio",
+    "transcode"
+  ],
+  "author": "Jerome Wu <jeromewus@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.x"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
